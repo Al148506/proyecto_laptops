@@ -1,0 +1,13 @@
+Data structure
+
+Company:Laptop brand
+TypeName: Type of the model (Ultrabook, Notebook, 2 in 1 Convertible, Gaming)
+Inches: The size of the laptop's display in inches
+ScreenResolution: How many pixels are present in the screen
+CPU: Processor installed
+RAM: RAM installed 
+Memory: Memory installed in GBs or TBs
+GPU: Graphics card
+OpSys: The operating system of the laptop.
+Weigth: Weigth of the laptop in kg
+Price: The price of the product in USD
